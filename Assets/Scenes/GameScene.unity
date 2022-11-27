@@ -765,7 +765,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: -417, y: 92.900055}
+  m_AnchoredPosition: {x: -380, y: 92.900055}
   m_SizeDelta: {x: 256, y: 448.3}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &221154322
@@ -1560,7 +1560,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   spline: {fileID: 0}
   travelMode: 0
-  speed: 2
+  speed: 4
   m_normalizedT: 0
   rotationLerpModifier: 10
   lookAt: 1
@@ -3440,7 +3440,7 @@ Camera:
   m_Enabled: 1
   serializedVersion: 2
   m_ClearFlags: 2
-  m_BackGroundColor: {r: 0.96862745, g: 0.4392157, b: 0.5647059, a: 0}
+  m_BackGroundColor: {r: 1, g: 0.9058639, b: 0.4198113, a: 0}
   m_projectionMatrixMode: 1
   m_GateFitMode: 2
   m_FOVAxisMode: 0
@@ -3481,7 +3481,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   m_LocalRotation: {x: -0.115621954, y: -0.6885959, z: 0.113815114, w: -0.7067627}
-  m_LocalPosition: {x: -9.24, y: 4.35, z: -0.12}
+  m_LocalPosition: {x: -9, y: 4.35, z: -0.12}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
